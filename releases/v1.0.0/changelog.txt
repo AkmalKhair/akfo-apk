@@ -1,0 +1,10 @@
+# Akfo App v1.0.0
+Released on: 2025-06-26
+
+✅ What's New:
+- First Release with API WEB
+🔗 Download:
+- arm64: akfo-arm64.apk
+- armv7: akfo-armv7.apk
+- x86_64: akfo-x86_64.apk
+- universal: akfo-universal.apk

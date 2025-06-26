@@ -1,0 +1,21 @@
+{
+  "latest_version": "1.0.0",
+  "released_on": "2025-06-26",
+  "changelog": [
+    "- First Release with API WEB",
+    "🔗 Download:",
+    "- arm64: akfo-arm64.apk",
+    "- armv7: akfo-armv7.apk",
+    "- x86_64: akfo-x86_64.apk",
+    "- universal: akfo-universal.apk"
+  ],
+  "download_links": {
+    "arm64": "https://github.com/AkmalKhair/akfo-apk/raw/refs/heads/main/releases/new/akfo-arm64.apk",
+    "armv7": "https://github.com/AkmalKhair/akfo-apk/raw/refs/heads/main/releases/new/akfo-armv7.apk",
+    "x86_64": "https://github.com/AkmalKhair/akfo-apk/raw/refs/heads/main/releases/new/akfo-x86_64.apk",
+    "universal": "https://github.com/AkmalKhair/akfo-apk/raw/refs/heads/main/releases/new/akfo-universal.apk"
+  },
+  "all_versions": [
+    "1.0.0"
+  ]
+}
